@@ -9,7 +9,7 @@
 ## Instructions
 
 In order to start playing this game, one must have to do the following:
-1. Clone the project where you want to locally keep the files.
+1. Clone the project, where you want to locally keep the files.
 2. Once cloned, start the game using the index.html file.
 3. Running the game does not requires internet.
 4. Best viewed on laptop screen.
