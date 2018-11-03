@@ -18,7 +18,7 @@ In order to start playing this game, one must have to do the following:
 
 Works on the principle of Frogger game. We have a player and we uses the up, down, left and right arrow keys to move our player and reach the top of the canvas (water), avoiding all enemies (bugs) that comes between.
 
-Once we reaches the top of the canvas (water), the game resets and the player reaches the bottom the canvas from where we initially started.
+Once we reaches the top of the canvas (water), the game resets and the player reaches the bottom of the canvas from where the player initially started.
 
 ## Working
 
